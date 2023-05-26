@@ -1,1 +1,5 @@
-plotly==5.14.1
+plotly
+openpyxl
+pandas
+numpy
+matplotlib
